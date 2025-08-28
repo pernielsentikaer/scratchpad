@@ -1,0 +1,12 @@
+{
+  "name": "scratchpad",
+  "version": "1.0.0",
+  "description": "A simple scratchpad repository for storing images and videos",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": ["scratchpad", "images", "videos"],
+  "author": "",
+  "license": "MIT"
+}
